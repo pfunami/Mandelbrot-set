@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/funami/Creative Cloud Files/ITF_classes/2/aAB/複素関数論/mandelbrot/mandelbrot.c
+stdio.h
+-
+math.h
+-
+

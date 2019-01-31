@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/funami/Creative Cloud Files/ITF_classes/2/aAB/複素関数論/mandelbrot"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/funami/Creative Cloud Files/ITF_classes/2/aAB/複素関数論/mandelbrot/cmake-build-debug
